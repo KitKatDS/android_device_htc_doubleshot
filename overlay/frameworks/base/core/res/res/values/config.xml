@@ -223,4 +223,6 @@
     <!-- Disable lockscreen translucent decor by default -->
     <bool name="config_enableLockScreenTranslucentDecor">true</bool>
 
+    <!-- BitMask with device HW keys -->
+    <integer name="config_deviceHardwareKeys">39</integer>
 </resources>
